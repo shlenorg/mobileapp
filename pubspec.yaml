@@ -1,0 +1,123 @@
+name: shlen
+description: Shlen
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+
+  flutter_localizations:
+    sdk: flutter
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+
+  http: ^0.12.1
+  retrofit: ^1.3.4
+  json_annotation: ^3.0.1
+  shared_preferences: ^0.5.7
+  flutter_svg: 0.18.0
+  webview_flutter: ^0.3.22+1
+  flutter_html: ^1.0.2
+  validators: ^2.0.0
+  smooth_page_indicator: ^0.2.0
+  flutter_switch: ^0.1.4
+
+  path_provider: ^1.6.7
+  path: ^1.6.4
+  url_launcher: ^5.4.7
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.7.5
+  retrofit_generator: ^1.3.4+1
+  build_runner: ^1.9.0
+  flutter_launcher_name: ^0.0.1
+  json_serializable: any
+  flutter_test:
+    sdk: flutter
+
+
+flutter_launcher_name:
+  name: "Shlen"
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/shlen_logo.png"
+
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/locale/loc_en.json
+   - assets/images/shlen_logo.png
+   - assets/images/welcome.png
+   - assets/images/generate_key.png
+   - assets/images/blue_theme.png
+   - assets/images/green_theme.png
+   - assets/images/main_bg.png
+   - assets/images/ens_image.png
+   - assets/images/key_image.png
+   - assets/images/shield_image.png
+   - assets/images/spirale_image.png
+   - assets/images/star_image.png
+   - assets/images/account_icon.svg
+   - assets/images/chat_icon.svg
+   - assets/images/exchange_icon.svg
+   - assets/images/wallet_icon.svg
+   - assets/images/logo_icon.svg
+   - assets/images/usa_icon.svg
+   - assets/images/etherium_icon.svg
+   - assets/images/bitcoin_icon.svg
+   - assets/images/signing_phrase_icon.svg
+   - assets/images/set_currency_icon.svg
+   - assets/images/scan_token_icon.svg
+   - assets/images/manage_icon.svg
+   - assets/images/theme_icon.svg
+   - assets/images/sync_icon.svg
+   - assets/images/privat_pol_icon.svg
+   - assets/images/help_icon.svg
+   - assets/images/exit_icon.svg
+   - assets/images/bell_icon.svg
+   - assets/images/arrow_right.svg
+   - assets/images/additionally_icon.svg
+   - assets/images/about_icon.svg
+   - assets/images/contacts_icon.svg
+   - assets/images/send_message_icon.svg
+   - assets/images/plus_icon.svg
+   - assets/images/send_message_icon.svg
+   - assets/images/arrow_back.svg
+   - assets/images/ens_icon.svg
+   - assets/images/plus_btn_icon.svg
+   - assets/images/log_out_2_icon.svg
+   - assets/images/main_bg.svg
+   - assets/images/done_icon.svg
+   - assets/images/wallet_menu_icon.svg
+   - assets/images/bitcoin_round_icon.svg
+   - assets/images/get_icon.svg
+   - assets/images/lok_icon.svg
+   - assets/images/upload_icon.svg
+   - assets/images/usd_round_icon.svg
+   - assets/images/group_chat_icon.svg
+   - assets/images/invite_friends_icon.svg
+   - assets/images/join_public_chat.svg
+   - assets/images/new_chat_icon.svg
+   - assets/images/garbage_icon.svg
+   - assets/images/fetch_icon.svg
+   - assets/images/clear_icon.svg
+   - assets/images/logo_notif.svg
+   - assets/images/down_arrow_icon.svg
+   - assets/images/up_arrow_icon.svg
+   - assets/images/voice_icon.svg
+   - assets/images/add_photo_icon.svg
+   - assets/images/add_file_icon.svg
+
+
+  fonts:
+    - family: SF
+      fonts:
+       - asset: assets/fonts/SFProDisplay-Regular.ttf
+    - family: AU
+      fonts:
+        - asset: assets/fonts/Audiowide-Regular.ttf
