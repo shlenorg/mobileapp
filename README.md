@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # License
 
-please for license info go to 
+For license info please check the following url:
 
 (https://github.com/shlenorg/mobileapp/blob/main/LICENSE.txt)
