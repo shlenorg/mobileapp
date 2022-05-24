@@ -15,3 +15,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # mobileapp
+
+#license
+
+please for license info go to 
+
+(https://github.com/shlenorg/mobileapp/blob/main/LICENSE.txt)
